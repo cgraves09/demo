@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/demo/static/css/main.267f268a.chunk.css",
+    "main.js": "/demo/static/js/main.494aea3f.chunk.js",
+    "main.js.map": "/demo/static/js/main.494aea3f.chunk.js.map",
+    "runtime-main.js": "/demo/static/js/runtime-main.88c6522e.js",
+    "runtime-main.js.map": "/demo/static/js/runtime-main.88c6522e.js.map",
+    "static/js/2.a3ab505e.chunk.js": "/demo/static/js/2.a3ab505e.chunk.js",
+    "static/js/2.a3ab505e.chunk.js.map": "/demo/static/js/2.a3ab505e.chunk.js.map",
+    "index.html": "/demo/index.html",
+    "precache-manifest.75ddf79731a6c0962053b861e8cb8335.js": "/demo/precache-manifest.75ddf79731a6c0962053b861e8cb8335.js",
+    "service-worker.js": "/demo/service-worker.js",
+    "static/css/main.267f268a.chunk.css.map": "/demo/static/css/main.267f268a.chunk.css.map",
+    "static/js/2.a3ab505e.chunk.js.LICENSE.txt": "/demo/static/js/2.a3ab505e.chunk.js.LICENSE.txt",
+    "static/media/SA_Co_Shield-1.png": "/demo/static/media/SA_Co_Shield-1.ff0cb9a3.png",
+    "static/media/apparel.jpg": "/demo/static/media/apparel.90769ea0.jpg",
+    "static/media/armBands.png": "/demo/static/media/armBands.73299802.png",
+    "static/media/armShields.jpg": "/demo/static/media/armShields.10cdc344.jpg",
+    "static/media/coldGear.jpg": "/demo/static/media/coldGear.d1c14235.jpg",
+    "static/media/dailyDeals.jpg": "/demo/static/media/dailyDeals.61f2536a.jpg",
+    "static/media/face.jpg": "/demo/static/media/face.f537774c.jpg",
+    "static/media/faceShields.png": "/demo/static/media/faceShields.e89e3ae7.png",
+    "static/media/headWear.jpg": "/demo/static/media/headWear.541a2b26.jpg",
+    "static/media/headwear.png": "/demo/static/media/headwear.643b4704.png",
+    "static/media/kids.png": "/demo/static/media/kids.f0af8eba.png",
+    "static/media/rings.jpg": "/demo/static/media/rings.6544e88b.jpg",
+    "static/media/shirts.png": "/demo/static/media/shirts.ba8074c2.png",
+    "static/media/strawHats.jpg": "/demo/static/media/strawHats.6ed29477.jpg",
+    "static/media/strawHats.png": "/demo/static/media/strawHats.bf904236.png",
+    "static/media/summer.png": "/demo/static/media/summer.bc79b00e.png",
+    "static/media/swimWear.jpg": "/demo/static/media/swimWear.e05990f5.jpg",
+    "static/media/warmGear.jpg": "/demo/static/media/warmGear.21fd85c5.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.88c6522e.js",
+    "static/js/2.a3ab505e.chunk.js",
+    "static/css/main.267f268a.chunk.css",
+    "static/js/main.494aea3f.chunk.js"
+  ]
+}
